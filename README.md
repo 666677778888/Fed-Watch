@@ -4,6 +4,8 @@
 
 ## 面板
 
+- **在线访问**：https://666677778888.github.io/Fed-Watch/ （GitHub Pages，每个交易日更新）
+
 - **文件**：[`fed_monitor.html`](./fed_monitor.html)（单文件、离线可用，浏览器直接打开）
 - **数据源**：St. Louis Fed FRED API（31 系列）+ OFR Financial Stress Index + Yahoo Finance (^MOVE)
 - **更新频率**：每个交易日自动更新并推送（数据日频/周频/月频混合，页面内标注各系列日期）
